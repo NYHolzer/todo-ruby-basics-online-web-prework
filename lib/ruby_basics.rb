@@ -23,6 +23,6 @@ def last_evaluated_value
   second = "expert"
 end
 
-def pizza_party
+def pizza_party (ingredients="cheese")
   "cheese"
 end
